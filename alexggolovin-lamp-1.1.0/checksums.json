@@ -1,0 +1,12 @@
+{
+  "README.md": "70675120a020ba606adfcd2eb57f93b6",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "manifests/apache.pp": "2692157281607bb40122daaf6a181a09",
+  "manifests/init.pp": "c8d1827f27beb76676b3949c4319fdcd",
+  "manifests/mysql.pp": "0731354b7f68448307380798c471af14",
+  "manifests/php.pp": "962e9fdf89dd42aa1bfe41920169040d",
+  "metadata.json": "a9ec6e1cbad49071d73ef6a980036a9a",
+  "spec/classes/init_spec.rb": "41a2b9253e06c120efe6227aa20196cb",
+  "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+  "tests/init.pp": "fcb1cd3be3ee69614bbb0b087d17a8ec"
+}
